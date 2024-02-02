@@ -1,0 +1,1 @@
+Profe lo que hice fue hacer un modelo de reconocimiento de sonidos, entre ellos hablar, aplaudir, silvar, cantar, sonido ambiente y toser
